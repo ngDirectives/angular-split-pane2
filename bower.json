@@ -1,0 +1,24 @@
+{
+  "name": "angular-split-pane2",
+  "main": [
+      "angular-split-pane.js"      
+  ],
+  "version": "1.3.2",
+  "homepage": "",
+  "authors": [
+    "Simon Hagström <simon.hagstrom@gmail.com>",
+	"nirmal Bhagwani<nil4u.you@gmail.com>"
+  ],
+  "description": "An AngularJS Split Pane directive2",
+  "license": "MIT",
+  "dependencies": {
+    "split-pane2": "^0.10.0",
+    "angular": "^1.2.0"
+  },
+  "ignore": [
+    "**/.*",
+    "examples",
+    "README.md",
+    "bower_components"
+  ]
+}
